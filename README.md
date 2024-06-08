@@ -36,7 +36,7 @@ O Social Tree é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/XSkajGzLShPcXT9zXKuXEo/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=PCSBVzxM1tM7JLfu-0>) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/XSkajGzLShPcXT9zXKuXEo/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1453-305&t=Z2wDzPiEhQJxTn0q-0>) para acessá-lo.
 
 ## 🏆 Licença
 
