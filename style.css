@@ -29,11 +29,12 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  height: 100vh;
 }
 
 body * {
   font-family: "Inter", sans-serif;
-  color: var(--text-color)
+  color: var(--text-color);
 }
 
 #container {
@@ -127,12 +128,12 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-transition: background 0.2s;
+  transition: background 0.2s;
 }
 
 ul li a:hover {
   background: var(--surface-color-hover);
-  border: 1.5px solid var(--text-color)
+  border: 1.5px solid var(--text-color);
 }
 
 /* Social Links */
@@ -140,7 +141,6 @@ ul li a:hover {
 #social-links {
   display: flex;
   justify-content: center;
-
 
   padding: 24px 0;
 
@@ -160,11 +160,21 @@ ul li a:hover {
 #social-links a:hover {
   background: var(--highlight-color);
   padding: 16px;
-  
 }
 
 footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+}
+
+/* media queries */
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
 }
